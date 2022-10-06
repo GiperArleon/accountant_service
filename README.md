@@ -1,1 +1,2 @@
-# accountant_service
+# accountant service
+сервис бухгалтер
